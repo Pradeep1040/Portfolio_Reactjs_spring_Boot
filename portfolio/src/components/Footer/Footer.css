@@ -1,0 +1,54 @@
+.viva{
+    width: 100%;
+}
+.insta
+{
+    color: white;
+ 
+   height:50px;
+width:88px;
+}
+.facebook
+{
+    color: white;
+ 
+   height:50px;
+width:88px;
+    
+}
+.github
+{
+    color: white;
+ 
+   height:50px;
+width:88px;
+    
+}
+.footer
+{
+    display: flex;
+    align-items: center;
+    margin: -0.5rem -3.5rem;
+    position: relative;
+    margin-top: -7rem;
+
+}
+.f-content
+{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 4rem;
+     gap: 4rem;
+     color: white;
+}
+.f-icons
+{
+    display: flex;
+    gap: 2rem;
+   
+
+}
